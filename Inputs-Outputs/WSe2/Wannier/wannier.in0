@@ -1,0 +1,29 @@
+include totalE.in
+
+wannier \
+	innerWindow  -0.5 -0.04 \
+	outerWindow  -1  1 \
+        loadRotations yes \
+	saveSpin yes \
+	saveMomenta yes \
+	phononSupercell 6 6 1 \
+	polar yes
+
+#defect-supercell svac66  6 6 1  ../defect-s-vac-66/jdftx/totalE.in 1.111111111111111e-01 5.555555555555555e-02 8.800733970000001e-02 0. 5. 2.  #Neutral defect
+
+wannier-initial-state totalE.$VAR
+wannier-dump-name wannier.$VAR
+
+wannier-minimize nIterations 20000 energyDiffThreshold 1e-11
+
+wannier-center W 1 d+(+5/2)
+wannier-center W 1 d+(+3/2)
+wannier-center W 1 d+(+1/2)
+wannier-center W 1 d+(-1/2)
+wannier-center W 1 d+(-3/2)
+wannier-center W 1 d+(-5/2)
+wannier-center W 1 d-(+3/2)
+wannier-center W 1 d-(+1/2)
+wannier-center W 1 d-(-1/2)
+wannier-center W 1 d-(-3/2)
+

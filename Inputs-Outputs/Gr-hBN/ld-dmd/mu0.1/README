@@ -1,0 +1,20 @@
+multXX determines k meshes
+ntXX determines energy window
+Ez0.4 means electric field along z is 0.4 V/nm
+Ezm0.4 means electric field along z is -0.4 V/nm
+
+
+
+#======================================================================
+# Note about results of lifetime and diffusion lengths
+#======================================================================
+Final results of lifetime and diffusion lengths are obtained from
+exponential-cosine fits of spin observable evolution curves S(x,t).
+
+For example, for spin diffusion length,
+in file "solve_tl_fromldmme_ldbdfiles_grbn.out",
+search "Sxx_sxpert (exp cos)", you can find "tau =  30.94255049098883 micro-meter",
+this means that spin diffusion length along x of Sx is about 30.9 micro-meter.
+
+Similarly, search "Syx_sypert (exp cos)" and "Szx_szpert (exp cos)" in file "solve_tl_fromldmme_ldbdfiles_grbn.out",
+you can find spin diffusion length along x of Sy and Sz.

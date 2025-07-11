@@ -1,0 +1,22 @@
+#EzExt		5
+#kparis_eph_eimp 1
+
+#assumeMetal     1
+
+NkMult		10
+dmuMin	        1
+dmuMax	        1
+Tmax		300
+nkBT            7
+pumpOmegaMax    0.0
+pumpTau         10000
+probeOmegaMax	0.0
+
+ePhMode		DiagK
+ePhOnlyElec	1
+#ePhOmegaCut	1e-8
+detailBalance   1
+ePhDelta        0.02
+#write_sparseP   1
+check_T1	1
+#needConventional	1

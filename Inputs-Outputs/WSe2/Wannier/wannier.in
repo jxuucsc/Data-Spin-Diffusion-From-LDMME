@@ -1,0 +1,41 @@
+include totalE.in
+
+wannier \
+	innerWindow  -0.5 -0.04 \
+	outerWindow  -1  1 \
+        loadRotations yes \
+	saveSpin yes \
+	saveMomenta yes \
+	phononSupercell 6 6 1 \
+	polar yes
+
+#defect-supercell svac66  6 6 1  ../defect-s-vac-66/jdftx/totalE.in 1.111111111111111e-01 5.555555555555555e-02 8.800733970000001e-02 0. 5. 2.  #Neutral defect
+
+wannier-initial-state totalE.$VAR
+wannier-dump-name wannier.$VAR
+
+wannier-minimize nIterations 20000 energyDiffThreshold 1e-11
+
+wannier-center W 1 d+(+5/2)
+wannier-center W 1 d+(+3/2)
+wannier-center W 1 d+(+1/2)
+wannier-center W 1 d+(-1/2)
+wannier-center W 1 d+(-3/2)
+wannier-center W 1 d+(-5/2)
+wannier-center W 1 d-(+3/2)
+wannier-center W 1 d-(+1/2)
+wannier-center W 1 d-(-1/2)
+wannier-center W 1 d-(-3/2)
+
+wannier-center Gaussian  -0.420691   0.290657   0.167384 2 sUp 
+wannier-center Gaussian  -0.420691   0.290657   0.167384 2 sDn 
+wannier-center Gaussian   0.152797  -0.318399   0.065203 2 sUp 
+wannier-center Gaussian   0.152797  -0.318399   0.065203 2 sDn 
+wannier-center Gaussian   0.130371   0.177267  -0.067546 2 sUp 
+wannier-center Gaussian   0.130371   0.177267  -0.067546 2 sDn 
+wannier-center Gaussian   0.079115  -0.235846  -0.128154 2 sUp 
+wannier-center Gaussian   0.079115  -0.235846  -0.128154 2 sDn 
+wannier-center Gaussian  -0.041644   0.202347  -0.155190 2 sUp 
+wannier-center Gaussian  -0.041644   0.202347  -0.155190 2 sDn 
+wannier-center Gaussian  -0.487100   0.137547  -0.028744 2 sUp 
+wannier-center Gaussian  -0.487100   0.137547  -0.028744 2 sDn 

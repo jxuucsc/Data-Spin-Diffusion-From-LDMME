@@ -1,0 +1,5 @@
+include totalE-ph.in
+
+dump-only
+
+phonon supercell 6 6 1 ${phononParams}

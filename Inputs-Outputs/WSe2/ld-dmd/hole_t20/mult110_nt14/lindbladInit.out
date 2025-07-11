@@ -1,0 +1,298 @@
+
+*************** JDFTx 1.7  ***************
++++++++++++++++ Linked to jdftx 1.7  +++++++++++++++
+
+Start date and time: Fri Jul 11 08:49:15 2025
+Executable /home/xujq/codes/jdftx/jdftx-202404/build-FeynWann-202506/lindbladInit_for-DMD-4.5.6/init_for-DMD with command-line: -i lindbladInit.in
+Running on hosts (process indices):  node15 (0-55)  node17 (56-111)  node19 (112-167)  node20 (168-223)
+Divided in process groups (process indices):  0 (0)  1 (1)  2 (2)  3 (3)  4 (4)  5 (5)  6 (6)  7 (7)  8 (8)  9 (9)  10 (10)  11 (11)  12 (12)  13 (13)  14 (14)  15 (15)  16 (16)  17 (17)  18 (18)  19 (19)  20 (20)  21 (21)  22 (22)  23 (23)  24 (24)  25 (25)  26 (26)  27 (27)  28 (28)  29 (29)  30 (30)  31 (31)  32 (32)  33 (33)  34 (34)  35 (35)  36 (36)  37 (37)  38 (38)  39 (39)  40 (40)  41 (41)  42 (42)  43 (43)  44 (44)  45 (45)  46 (46)  47 (47)  48 (48)  49 (49)  50 (50)  51 (51)  52 (52)  53 (53)  54 (54)  55 (55)  56 (56)  57 (57)  58 (58)  59 (59)  60 (60)  61 (61)  62 (62)  63 (63)  64 (64)  65 (65)  66 (66)  67 (67)  68 (68)  69 (69)  70 (70)  71 (71)  72 (72)  73 (73)  74 (74)  75 (75)  76 (76)  77 (77)  78 (78)  79 (79)  80 (80)  81 (81)  82 (82)  83 (83)  84 (84)  85 (85)  86 (86)  87 (87)  88 (88)  89 (89)  90 (90)  91 (91)  92 (92)  93 (93)  94 (94)  95 (95)  96 (96)  97 (97)  98 (98)  99 (99)  100 (100)  101 (101)  102 (102)  103 (103)  104 (104)  105 (105)  106 (106)  107 (107)  108 (108)  109 (109)  110 (110)  111 (111)  112 (112)  113 (113)  114 (114)  115 (115)  116 (116)  117 (117)  118 (118)  119 (119)  120 (120)  121 (121)  122 (122)  123 (123)  124 (124)  125 (125)  126 (126)  127 (127)  128 (128)  129 (129)  130 (130)  131 (131)  132 (132)  133 (133)  134 (134)  135 (135)  136 (136)  137 (137)  138 (138)  139 (139)  140 (140)  141 (141)  142 (142)  143 (143)  144 (144)  145 (145)  146 (146)  147 (147)  148 (148)  149 (149)  150 (150)  151 (151)  152 (152)  153 (153)  154 (154)  155 (155)  156 (156)  157 (157)  158 (158)  159 (159)  160 (160)  161 (161)  162 (162)  163 (163)  164 (164)  165 (165)  166 (166)  167 (167)  168 (168)  169 (169)  170 (170)  171 (171)  172 (172)  173 (173)  174 (174)  175 (175)  176 (176)  177 (177)  178 (178)  179 (179)  180 (180)  181 (181)  182 (182)  183 (183)  184 (184)  185 (185)  186 (186)  187 (187)  188 (188)  189 (189)  190 (190)  191 (191)  192 (192)  193 (193)  194 (194)  195 (195)  196 (196)  197 (197)  198 (198)  199 (199)  200 (200)  201 (201)  202 (202)  203 (203)  204 (204)  205 (205)  206 (206)  207 (207)  208 (208)  209 (209)  210 (210)  211 (211)  212 (212)  213 (213)  214 (214)  215 (215)  216 (216)  217 (217)  218 (218)  219 (219)  220 (220)  221 (221)  222 (222)  223 (223)
+Resource initialization completed at t[s]:      0.23
+Run totals: 224 processes, 224 threads, 0 GPUs
+
+Inputs after conversion to atomic units:
+mode_dk = none
+dkabs = 1e-07
+kshift = 0 0 0
+NkMult = [  110  110  110  ]
+NkMult_forq = [  110  110  110  ]
+dmuMin = 0
+dmuMax = 0
+Tmax = 6.33362e-05
+nkBT = 14
+pumpOmegaMax = 0
+pumpTau = 413414
+probeOmegaMax = 0
+band_skipped = 0
+assumeMetal = 0
+assumeMetal_scatt = 0
+useFinek_for_ERange = 0
+select_k_use_meff = 0
+meff = 1
+EBot_set = 0
+ETop_set = -0.0367493
+kparis_eph_eimp = 0
+read_kpts = 0
+read_kpts_2nd = 0
+read_kpairs = 0
+read_erange_brange = 0
+onlyKvalley = 0
+ePhMode = DiagK
+ePhOnlyElec = 0
+ePhOnlyHole = 1
+onlyInterValley = 0
+onlyIntraValley = 0
+modeStart = 0
+modeStop = -1
+modeSkipStart = 0
+modeSkipStop = -1
+include_deg_phonon = 1
+assume_eq_gpm = 1
+detailBalance = 1
+ePhDelta = 4.77741e-05
+nEphDelta = 5.65685
+omegabyTCut = 0.000157888
+ePhOmegaCut = 1e-08
+maxNeighbors = 0
+degthr = 1e-08
+defectName = 
+iDefect = 1
+eScattOnlyElec = 0
+eScattOnlyHole = 1
+scattDelta = 4.77741e-05
+nScattDelta = 5.65685
+detailBalance_defect = 1
+omegaL = 6.33362e-09
+DEBUG = 0
+needConventional = 0
+writeU = none
+write_sparseP = 0
+writegm = 1
+keepgm = 0
+mergegm = 0
+layerOcc = 0
+writeHEz = 0
+needOmegaPhMax = 1
+save_dHePhSum_disk = 1
+check_T1 = 1
+needL = 0
+gfac_mean = 2.00232 2.00232 2.00232
+gfac_sigma = 0 0 0
+gfac_cap = 0 0 0
+read_gfack = 0
+Bext = [  0  0  0  ]
+orbitalZeeman = no
+EzExt = 0
+scissor = 0
+EshiftWeight = 0
+bandSumLQ = no
+enforceKramerDeg = no
+degeneracyThreshold = 3.67493e-06
+tdep = no
+lcut_flexure = 1.88973e+10
+order_flexure = 2
+needR = 0
+needRGD = 0
+needRbar = 0
+use_dtba_Rw = 0
+rbar_off_fromp = 0
+trunc_D_outer = 0
+smear_nondeg_pert = 0
+smear_rbar_off_fromp = 0
+apply_asr_eph = 1
+Emag_asr_eph = 0.001
+velocity_with_scissor = 0
+scissor_above_band = 0
+band_scissor = 0
+needJS = 0
+js_from_sv = 0
+
+Reading 'Wannier/totalE.out' ... done.
+NOTE: mu unavailable; assuming semiconductor/insulator and setting to VBM.
+Reading 'Wannier/totalE.eigenvals' ... done.
+mu = -0.177512
+nElectrons = 26
+nBandsDFT = 50
+nSpins = 1
+nSpinor = 2
+spinSuffix = ''
+kfold = [  12  12  1  ]
+isTruncated = [  0  0  1  ]
+R:
+[  6.27389  -3.13695  0  ]
+[  0  5.43335  0  ]
+[  0  0  26  ]
+G:
+[  1.00148  0.578206  -0  ]
+[  0  1.15641  0  ]
+[  0  -0  0.241661  ]
+invGT:
+[  0.998521  0  -0  ]
+[  -0.499261  0.864745  0  ]
+[  0  -0  4.13803  ]
+Atoms with fractional coordinates:
+	 W   0.000000000000000  -0.000000000000000   0.000000000000000
+	Se   0.666666666666667   0.333333333333333   0.121870594399722
+	Se   0.666666666666667   0.333333333333333  -0.121870594399722
+
+Reading 'Wannier/wannier.mlwfCellMap' ... done.
+Reading 'Wannier/wannier.mlwfBandContrib' ... done.
+nBands = 22
+
+
+Reading 'Wannier/wannier.out' ... done.
+EminInner = -0.5
+EmaxInner = -0.04
+Reading 'Wannier/wannier.mlwfCellWeights' ... done.
+
+Reading 'Wannier/phonon.out' ... done.
+nModes = 9
+phononSup = [  6  6  1  ]
+
+Reading 'Wannier/totalE.phononBasis' ... done.
+Reading 'Wannier/totalE.phononBasis' ... done.
+Reading 'Wannier/totalE.phononCellMap' ... done.
+Reading 'Wannier/totalE.phononOmegaSqCorr' ... done.
+Reading 'Wannier/wannier.mlwfCellMapPh' ... done.
+Reading 'Wannier/wannier.mlwfCellMapPhSum' ... done.
+Reading 'Wannier/wannier.mlwfCellWeightsPh' ... done.
+Reading 'Wannier/wannier.mlwfHePh' ... done.
+Reading 'Wannier/wannier.mlwfHePhSum' ... done.
+Reading 'Wannier/wannier.mlwfD' ... done.
+
+Reading 'Wannier/wannier.out' ... done.
+polar = yes
+
+Reading 'Wannier/totalE.Zeff' ... done.
+Reading 'Wannier/totalE.epsInf' ... done.
+epspm, 16.3, epszm 16.3, t 11.2817 
+Reading 'Wannier/totalE.phononCellWeights' ... done.
+Reading 'Wannier/wannier.mlwfH' ... done.
+Reading 'Wannier/wannier.mlwfP' ... done.
+Reading 'Wannier/wannier.mlwfS' ... done.
+
+modeStop = 9
+Setting NkMult = 1 along truncated direction 3.
+Scanning q points: 2% 4% 6% 7% 9% 11% 13% 15% 17% 19% 20% 22% 24% 26% 28% 30% 31% 33% 35% 37% 39% 41% 43% 44% 46% 48% 50% 52% 54% 56% 57% 59% 61% 63% 65% 67% 69% 70% 72% 74% 76% 78% 80% 81% 83% 85% 87% 89% 91% 93% 94% 96% 98% 100% done.
+Maximum phonon energy: 40.5992 meV
+Minimum non-zero phonon energy: 9.82935e-05 meV (3.61222e-09 har)
+
+carrier_density = 0 a.u.
+Carrier density:  0.0000000e+00 cm^-2
+
+Setting NkMult = 1 along truncated direction 3.
+Effective interpolated k-mesh dimensions: [  1320  1320  1  ]
+Effectively sampled nKpts: 1742400
+
+find number of DFT bands skipped in Wannier
+band_skipped = 12
+
+Determin VBM and CBM using DFT k meshes
+Reading 'Wannier/totalE.eigenvals' ... done.
+VBM: 0.000000 eV, CBM: 1.260108 eV, Middle: 0.630054 eV
+
+The system is not metalic
+Emargin = 0.024 eV
+Active energy range for probe: -0.024 to 0.630 eV
+Active energy range for kpointSelect: -0.024 to 0.630 eV
+Active energy range for density matrix: -0.024 to 0.630 eV
+
+bBot_probe= 13 bTop_probe= 14
+bBot_dm= 13 bTop_dm= 14
+bBot_eph= 13 bTop_eph= 14 bCBM= 14
+Scanning k-points with active states: 2% 4% 6% 7% 9% 11% 13% 15% 17% 19% 20% 22% 24% 26% 28% 30% 31% 33% 35% 37% 39% 41% 43% 44% 46% 48% 50% 52% 54% 56% 57% 59% 61% 63% 65% 67% 69% 70% 72% 74% 76% 78% 80% 81% 83% 85% 87% 89% 91% 93% 94% 96% 98% 100% done.
+Found 5962 k-points with active states from  1.74240000000000e+06 total k-points (292x reduction)
+
+saveR done
+saveSize done
+saveEk done
+
+dmu =  0.00000000000000e+00 ( 0.00000000000000e+00 eV)
+
+Compute StateE in parallel: done
+bcastState_JX done
+
+size of E: 1
+size of U: 22 1
+size of S: 1 1
+size of L: 0 0
+size of v: 1 1
+size of rbar: 0 0
+
+
+At dmuMax, majority density: Carrier density: -1.7265273e+11 cm^-2
+At dmuMax, minority density: Carrier density:  0.0000000e+00 cm^-2
+At dmuMin, majority density: Carrier density: -1.7265273e+11 cm^-2
+At dmuMin, minority density: Carrier density:  0.0000000e+00 cm^-2
+saveElec done
+
+Spin mixing |b|^2: 0.499995 0.499995 0.000472035
+
+For kpairSelect: Estart= -0.000886707 Estop= 0.0231541 bStart= 13 bStop= 14
+
+Scanning k-pairs with e-ph coupling: 4% 8% 12% 15% 19% 23% 27% 31% 35% 38% 42% 46% 50% 54% 58% 62% 65% 69% 73% 77% 81% 85% 88% 92% 96% 100% done.
+Found 12977912 k-pairs with e-ph coupling from 35545444 total pairs of selected k-points (3x reduction)
+saveSize done
+saveKpair done
+
+For ePh: Estart= -0.0241285 eV Estop= 0.630054 eV bStart= 13 bStop= 14
+
+Compute EPH: 
+2% 4% 6% 8% 10% 12% 14% 16% 18% 20% 22% 24% 26% 28% 30% 32% 34% 36% 38% 40% 42% 44% 46% 48% 50% 52% 54% 56% 58% 60% 62% 64% 66% 68% 70% 72% 74% 76% 78% 80% 82% 84% 86% 88% 90% 92% 94% 96% 98% 
+imsig_min = 0.0248041 eV imsig_max = 0.128437 eV
+Active energy range for printing ImSigma(E): -0.024 to 0.009 eV
+done.
+
+dSz = 0 Szdot = 0 T1z = -nan ps
+dSz = -7.97764e-06 Szdot = 1.35352e-16 T1z = 1.42568e+06 ps
+dSz = -7.97764e-07 Szdot = 1.34361e-17 T1z = 1.43621e+06 ps
+
+Merging 224 files with total size: 207646592 bytes into ldbd_data/ldbd_P1_lindblad_hole.bin
+Merge completed in 20.1621 seconds.
+Merging 224 files with total size: 207646592 bytes into ldbd_data/ldbd_P2_lindblad_hole.bin
+Merge completed in 0.29012 seconds.
+
+drhosdeg = 1 obsdeg = 1 imsigma_eph = 0 fac_imsig = 0 impurity_broadening = 0 eV
+dS[2] = -1.87516 Sdot[2] = 3.18068e-11 T1 = 0.0181683 0.0181529 1.42605e+06 ps
+
+drhosdeg = 1 obsdeg = 0 imsigma_eph = 0 fac_imsig = 0 impurity_broadening = 0 eV
+dS[2] = -1.87516 Sdot[2] = 2.8536e-08 T1 = 0.0217113 0.0216706 1589.5 ps
+
+**************************************************
+dRho formula with constant smearings:
+**************************************************
+
+drhosdeg = 0 obsdeg = 0 imsigma_eph = 1 fac_imsig = 0 impurity_broadening = 0.001 eV
+dS[2] = -1.87516 Sdot[2] = 2.13165e-08 T1 = 0.0199597 0.0199235 2127.83 ps
+
+**************************************************
+dRho formula with ImSigma_eph + a constant:
+**************************************************
+
+drhosdeg = 0 obsdeg = 0 imsigma_eph = 1 fac_imsig = 1 impurity_broadening = 0 eV
+dS[2] = -1.87516 Sdot[2] = 2.35643e-09 T1 = 2.21173 2.19803 19248.5 ps
+
+drhosdeg = 0 obsdeg = 0 imsigma_eph = 1 fac_imsig = 0.5 impurity_broadening = 0 eV
+dS[2] = -1.87516 Sdot[2] = 4.7074e-09 T1 = 1.10582 1.09898 9635.45 ps
+
+drhosdeg = 0 obsdeg = 0 imsigma_eph = 1 fac_imsig = 1 impurity_broadening = 0.001 eV
+dS[2] = -1.87516 Sdot[2] = 2.34343e-09 T1 = 2.22183 2.20809 19355.3 ps
+
+Delete gm:
+
+defect_fraction = 0
+End date and time: Fri Jul 11 09:21:22 2025  (Duration: 0-0:32:07.42)
+Done!
+
+PROFILER:    DistributedMatrix::compute1     0.000011 +/-     0.000024 s, 908251 calls,     10.328027 s total
+PROFILER:    DistributedMatrix::compute2     0.029604 +/-     0.003355 s, 57937 calls,   1715.157564 s total
+PROFILER:  DistributedMatrix::transform1     0.000405 +/-     0.000364 s,  444 calls,      0.179684 s total
+PROFILER:       FeynWann::eLoop:callback     0.000000 +/-     0.000000 s, 8208 calls,      0.000445 s total
+PROFILER:      FeynWann::phLoop:callback     0.000000 +/-     0.000000 s, 7776 calls,      0.000390 s total
+PROFILER:            FeynWann::setMatrix     0.000216 +/-     0.000017 s, 57937 calls,     12.543200 s total
+PROFILER:  FeynWann::setState:rotations1     0.000001 +/-     0.000019 s, 8236 calls,      0.009533 s total
+PROFILER:  FeynWann::setState:rotations2     0.000000 +/-     0.000000 s,   27 calls,      0.000001 s total
+PROFILER:            matrix::diagonalize     0.000021 +/-     0.000020 s, 924127 calls,     19.767032 s total
+
+MEMUSAGE:                         matrix     0.004866 GB
+MEMUSAGE:                           misc     0.186741 GB
+MEMUSAGE:                          Total     0.191542 GB

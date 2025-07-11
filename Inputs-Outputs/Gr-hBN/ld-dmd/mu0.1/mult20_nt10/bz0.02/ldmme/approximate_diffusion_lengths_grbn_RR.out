@@ -1,0 +1,602 @@
+tau_avg in ps:
+ (0.6706649891113818-1.2033084441329497e-33j)
+--------------------------------------------------
+DD model:
+--------------------------------------------------
+Rayleigh-Ritz ( 2  vec.,  sx vsx ) diffusion length in micro-meter:
+ [-11.66388  11.66387]
+precession frequency: [-3.80918e-06  3.80905e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sz vsz ) diffusion length in micro-meter:
+ [ 17.7822  -17.78218]
+precession frequency: [-4.40411e-11  4.38460e-11]
+
+Rayleigh-Ritz ( 2  vec.,  sx vsx, with Left ) diffusion length in micro-meter:
+ [ 11.27614 -11.27126]
+precession frequency: [ 3.94171e-06 -3.94195e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sy vsy, with Left ) diffusion length in micro-meter:
+ [ 11.28218 -11.2773 ]
+precession frequency: [-3.94461e-06  3.94486e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sz vsz, with Left ) diffusion length in micro-meter:
+ [-17.1825   17.18136]
+precession frequency: [ 9.83211e-10 -9.83016e-10]
+
+Rayleigh-Ritz ( 2  vec.,  srx vsrx, slx vsrx ) diffusion length in micro-meter:
+ [ 9.72995 -9.72971]
+precession frequency: [ 4.56262e-06 -4.56341e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sry vsry, sly vsry ) diffusion length in micro-meter:
+ [ 9.74946 -9.7492 ]
+precession frequency: [-4.56111e-06  4.56190e-06]
+
+Rayleigh-Ritz ( 2  vec.,  srz vsrz, slz vsrz ) diffusion length in micro-meter:
+ [-14.84943  14.84829]
+precession frequency: [ 1.44639e-09 -1.44617e-09]
+
+Rayleigh-Ritz ( 2  vec.,  sx vsx, with Left, sevp ) diffusion length in micro-meter:
+ [-2.70077  2.6991 ]
+precession frequency: [-1.83024e-05  1.82093e-05]
+
+Rayleigh-Ritz ( 2  vec.,  sy vsy, with Left, sevp ) diffusion length in micro-meter:
+ [-2.62492  2.62055]
+precession frequency: [ 1.76766e-05 -1.77528e-05]
+
+Rayleigh-Ritz ( 2  vec.,  sz vsz, with Left, sevp ) diffusion length in micro-meter:
+ [ 17.42115 -17.41983]
+precession frequency: [-5.94862e-11 -4.45487e-10]
+
+Rayleigh-Ritz ( 2  vec.,  srx vsrx, slx vsrx, sevp ) diffusion length in micro-meter:
+ [ 10.33926 -10.33888]
+precession frequency: [ 4.29988e-06 -4.30056e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sry vsry, sly vsry, sevp ) diffusion length in micro-meter:
+ [ 10.35945 -10.35874]
+precession frequency: [-4.29880e-06  4.30096e-06]
+
+Rayleigh-Ritz ( 2  vec.,  srz vsrz, slz vsrz, sevp ) diffusion length in micro-meter:
+ [-15.76748  15.76722]
+precession frequency: [ 3.63168e-09 -3.62060e-09]
+
+Rayleigh-Ritz ( 2  vec.,  sx tvsx, with Left, sevp ) diffusion length in micro-meter:
+ [-2.84898  2.49093]
+precession frequency: [-1.81602e-05  1.77597e-05]
+
+Rayleigh-Ritz ( 2  vec.,  sy tvsy, with Left, sevp ) diffusion length in micro-meter:
+ [-2.84898  2.49093]
+precession frequency: [ 1.81602e-05 -1.77597e-05]
+
+Rayleigh-Ritz ( 2  vec.,  sz tvsz, with Left, sevp ) diffusion length in micro-meter:
+ [ 17.41868 -17.41447]
+precession frequency: [ 3.60242e-18 -2.23252e-17]
+
+Rayleigh-Ritz ( 2  vec.,  sx tvsx, with Left, appr sevp ) diffusion length in micro-meter:
+ [-6.51474  6.49183]
+precession frequency: [ 9.81686e-06 -9.82793e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sy tvsy, with Left, appr sevp ) diffusion length in micro-meter:
+ [-6.4087   6.38105]
+precession frequency: [-9.78103e-06  9.77590e-06]
+
+Rayleigh-Ritz ( 2  vec.,  sz tvsz, with Left, appr sevp ) diffusion length in micro-meter:
+ [ 14.83449 -14.83287]
+precession frequency: [-8.77218e-10  9.76928e-10]
+
+Rayleigh-Ritz ( 4  vec.,  srx vsrx slx vslx ) diffusion length in micro-meter:
+ [ 9.95479 -9.95398 -0.13122  0.13122]
+precession frequency: [ 4.45859e-06 -4.45929e-06 -1.15354e-06 -2.37270e-07]
+
+Rayleigh-Ritz ( 4  vec.,  sry vsry sly vsly ) diffusion length in micro-meter:
+ [ 9.97267 -9.97185 -0.13119  0.13119]
+precession frequency: [-4.45773e-06  4.45843e-06  8.64490e-07  5.25198e-07]
+
+Rayleigh-Ritz ( 4  vec.,  srz vsrz slz vslz ) diffusion length in micro-meter:
+ [-1.48495e+01  1.48483e+01  1.16636e-03 -1.16614e-03]
+precession frequency: [ 1.44629e-09 -1.44608e-09  3.35743e-05 -3.36171e-05]
+
+Rayleigh-Ritz ( 4  vec.,  srx vsrx slx vslx, sevp ) diffusion length in micro-meter:
+ [-3.23798  3.041   -1.10408  0.98968]
+precession frequency: [-1.95928e-05  1.85963e-05  8.46960e-06 -6.16606e-06]
+
+Rayleigh-Ritz ( 4  vec.,  sry vsry sly vsly, sevp ) diffusion length in micro-meter:
+ [ 3.07714 -2.99002  1.11915 -0.99474]
+precession frequency: [-1.96927e-05  1.82845e-05  6.27630e-06 -6.31599e-06]
+
+Rayleigh-Ritz ( 4  vec.,  srz vsrz slz vslz, sevp ) diffusion length in micro-meter:
+ [ 15.70364 -15.70318   0.12718  -0.12613]
+precession frequency: [-2.66138e-07  2.66010e-07  4.13279e-04 -4.05921e-04]
+
+
+--------------------------------------------------
+real-space simulations using DD model and GEVP (with srz vsrz, slz vsrz)
+--------------------------------------------------
+Rayleigh-Ritz ( 2  vec.,  srz vsrz, slz vsrz ) diffusion length in micro-meter:
+ [-14.84943  14.84829]
+precession frequency: [ 1.44639e-09 -1.44617e-09]
+
+1  (of  2 ) modes are considered in real-space simulation
+Szx_szpert_DD (exp): tau =  14.848284773285092  micro-meter
+Szx_szpert_DD (exp cos phi=0): tau =  14.848286606996712  micro-meter  period =  -229907.87316707775
+Szx_szpert_DD (exp cos): tau =  14.848286596488093  micro-meter  period =  -229909.96037110937 micro-meter  phi =  1.7430749674807842e-06
+--------------------------------------------------
+ss-DD model with two directions:
+--------------------------------------------------
+Rayleigh-Ritz ( 4  vec.,  sxy vsxy ) diffusion length in micro-meter:
+ [ 11.66585 -11.66583 -11.66388  11.66387]
+precession frequency: [-3.80865e-06  3.80878e-06 -3.80918e-06  3.80905e-06]
+
+Rayleigh-Ritz ( 4  vec.,  sxy vsxy, with Left ) diffusion length in micro-meter:
+ [ 11.28218 -11.2773   11.27613 -11.27126]
+precession frequency: [-3.94461e-06  3.94486e-06  3.94171e-06 -3.94195e-06]
+
+Rayleigh-Ritz ( 4  vec.,  syz vsyz ) diffusion length in micro-meter:
+ [-17.90145  17.90129  12.06994 -12.06983]
+precession frequency: [-1.33590e-07  1.33533e-07 -4.03230e-06  4.03250e-06]
+
+Rayleigh-Ritz ( 4  vec.,  syz vsyz, with Left ) diffusion length in micro-meter:
+ [ 17.73047 -17.72968  12.42098 -12.41683]
+precession frequency: [ 3.71036e-07 -3.71236e-07 -4.59640e-06  4.59551e-06]
+
+Rayleigh-Ritz ( 4  vec.,  sxz vsxz ) diffusion length in micro-meter:
+ [-17.89439  17.89392  12.07343 -12.07323]
+precession frequency: [ 1.33898e-07 -1.33831e-07  4.03133e-06 -4.03154e-06]
+
+Rayleigh-Ritz ( 4  vec.,  sxz vsxz, with Left ) diffusion length in micro-meter:
+ [ 17.72333 -17.72233  12.42089 -12.41633]
+precession frequency: [-3.73573e-07  3.73752e-07  4.59209e-06 -4.59107e-06]
+
+Rayleigh-Ritz ( 4  vec.,  srxz vsrxz, slxz vsrxz ) diffusion length in micro-meter:
+ [ 15.56868 -15.56856 -11.03553  11.03553]
+precession frequency: [-5.55217e-07  5.55241e-07 -5.56495e-06  5.56541e-06]
+
+Rayleigh-Ritz ( 8  vec.,  srxz vsrxz slxz vslxz ) diffusion length in micro-meter:
+ [ 1.55883e+01 -1.55882e+01  1.12637e+01 -1.12631e+01 -1.64007e-01
+  1.64006e-01  1.97825e-04 -1.97563e-04]
+precession frequency: [-5.50802e-07  5.50854e-07  5.43873e-06 -5.43828e-06 -9.13313e-07
+  2.89892e-08  1.82036e-04 -1.63923e-04]
+
+Rayleigh-Ritz ( 4  vec.,  srxz vsrxz, slxz vsrxz, sevp ) diffusion length in micro-meter:
+ [ 16.41684 -16.41546  11.55772 -11.55717]
+precession frequency: [-4.74016e-07  4.74095e-07  5.13890e-06 -5.13817e-06]
+
+Rayleigh-Ritz ( 8  vec.,  srxz vsrxz slxz vslxz, sevp ) diffusion length in micro-meter:
+ [ 1.65268e+01 -1.65253e+01  1.31639e+01 -1.31636e+01 -2.64199e-01
+  2.64197e-01  4.61891e-04 -4.17358e-04]
+precession frequency: [-4.49931e-07  4.50233e-07  4.46484e-06 -4.46400e-06 -1.00776e-06
+  6.11755e-07 -9.08173e-02  8.67903e-02]
+
+--------------------------------------------------
+ss-DD model:
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  s vs ) diffusion length in micro-meter:
+ [-17.90957  17.90899  12.10551 -12.10532  12.10219 -12.1021 ]
+precession frequency: [ 1.12620e-10 -9.79168e-11  4.02722e-06 -4.02744e-06 -4.02841e-06
+  4.02861e-06]
+
+Rayleigh-Ritz ( 6  vec.,  s vs, with Left ) diffusion length in micro-meter:
+ [ 17.52878 -17.52515  12.69678  12.6961  -12.69266 -12.69149]
+precession frequency: [-1.09767e-09  1.06233e-09 -4.56740e-06  4.56237e-06  4.56647e-06
+ -4.56130e-06]
+
+Rayleigh-Ritz ( 6  vec.,  sr vsr, sl vsr ) diffusion length in micro-meter:
+ [ 15.21514 -15.21367  11.50086 -11.50002  11.48337 -11.48336]
+precession frequency: [-1.57497e-09  1.64053e-09 -5.51136e-06  5.51081e-06  5.51082e-06
+ -5.51050e-06]
+
+Rayleigh-Ritz ( 12  vec.,  sr vsr sl vsl ) diffusion length in micro-meter:
+ [ 15.55568 -15.55401  11.66169 -11.66043  11.64651 -11.64588   0.13115
+  -0.1311   -0.13099  -0.13098   0.13096   0.13096]
+precession frequency: [-1.48207e-09  1.53129e-09 -5.34717e-06  5.34662e-06  5.34594e-06
+ -5.34554e-06  1.34659e-07 -1.55255e-07 -2.89326e-06  2.61607e-06
+ -2.47126e-06  2.76810e-06]
+
+
+--------------------------------------------------
+real-space simulations using ss-DD model and SEVP (with sr vsr, sl vsl)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  s vs, with Left ) diffusion length in micro-meter:
+ [ 18.51224 -18.50749  13.24789  13.24783 -13.24581 -13.24569]
+precession frequency: [ 2.31967e-11  2.20407e-11  4.25700e-06 -4.25647e-06 -4.25597e-06
+  4.25651e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_cDD (exp): tau =  7.941522715546931  micro-meter
+Sxx_sxpert_cDD (exp cos phi=0): tau =  13.218259179016965  micro-meter  period =  -79.83119828621048
+Sxx_sxpert_cDD (exp cos): tau =  13.023858128690012  micro-meter  period =  77.79719139356857 micro-meter  phi =  -0.036640155493562185
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_cDD (exp): tau =  7.2842157269404915  micro-meter
+Syx_sypert_cDD (exp cos phi=0): tau =  11.612856439556115  micro-meter  period =  75.23974908046127
+Syx_sypert_cDD (exp cos): tau =  11.62581054388561  micro-meter  period =  75.37822239652918 micro-meter  phi =  0.0025908648239589623
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_cDD (exp): tau =  18.41888313362993  micro-meter
+Szx_szpert_cDD (exp cos phi=0): tau =  20.01707680819203  micro-meter  period =  -358.06391548100316
+Szx_szpert_cDD (exp cos): tau =  19.886874797530734  micro-meter  period =  352.6263591463005 micro-meter  phi =  -0.024610734047911337
+
+--------------------------------------------------
+real-space simulations using ss-DD model and GEVP (with sr vsr, sl vsl)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  s vs, with Left ) diffusion length in micro-meter:
+ [ 17.52878 -17.52515  12.69678  12.6961  -12.69266 -12.69149]
+precession frequency: [-1.09767e-09  1.06233e-09 -4.56740e-06  4.56237e-06  4.56647e-06
+ -4.56130e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_cDD (exp): tau =  7.480546176552734  micro-meter
+Sxx_sxpert_cDD (exp cos phi=0): tau =  12.662096312037791  micro-meter  period =  74.56684055906838
+Sxx_sxpert_cDD (exp cos): tau =  12.463409760311146  micro-meter  period =  72.5138504000281 micro-meter  phi =  -0.03977667500235841
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_cDD (exp): tau =  6.775417065632282  micro-meter
+Syx_sypert_cDD (exp cos phi=0): tau =  10.959627522986175  micro-meter  period =  -69.48475598264099
+Syx_sypert_cDD (exp cos): tau =  11.000390471345897  micro-meter  period =  69.9133138976406 micro-meter  phi =  0.008661166850269929
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_cDD (exp): tau =  17.445706661305863  micro-meter
+Szx_szpert_cDD (exp cos phi=0): tau =  19.14944752452262  micro-meter  period =  321.393544384435
+Szx_szpert_cDD (exp cos): tau =  18.99765545538187  micro-meter  period =  -315.3325542500411 micro-meter  phi =  0.029210867593950328
+
+--------------------------------------------------
+real-space simulations using m-ss-DD model and SEVP (with sr vsr, sl vsr)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  sr vsr, sl, vsr ) diffusion length in micro-meter:
+ [ 16.12054 -16.11764  11.9782  -11.97789 -11.9241   11.92392]
+precession frequency: [-3.58857e-09  3.70688e-09 -5.09859e-06  5.09937e-06 -5.09789e-06
+  5.09842e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_cDD (exp): tau =  6.4670981069457065  micro-meter
+Sxx_sxpert_cDD (exp cos phi=0): tau =  11.530731842152255  micro-meter  period =  -63.68394658510695
+Sxx_sxpert_cDD (exp cos): tau =  11.64898727495494  micro-meter  period =  64.82103411108251 micro-meter  phi =  0.025012698203825096
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_cDD (exp): tau =  6.023781846869911  micro-meter
+Syx_sypert_cDD (exp cos phi=0): tau =  10.044431547005164  micro-meter  period =  60.96808795144296
+Syx_sypert_cDD (exp cos): tau =  10.144158758457692  micro-meter  period =  61.98131687403965 micro-meter  phi =  0.023232101484127077
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_cDD (exp): tau =  15.56764128143375  micro-meter
+Szx_szpert_cDD (exp cos phi=0): tau =  16.790074838630748  micro-meter  period =  -315.71989564320916
+Szx_szpert_cDD (exp cos): tau =  16.697311086647986  micro-meter  period =  -311.43197341139637 micro-meter  phi =  0.02177671740076686
+
+--------------------------------------------------
+real-space simulations using m-ss-DD model and GEVP (with sr vsr, sl vsr)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  sr vsr, sl vsr ) diffusion length in micro-meter:
+ [ 15.21514 -15.21367  11.50086 -11.50002  11.48337 -11.48336]
+precession frequency: [-1.57497e-09  1.64053e-09 -5.51136e-06  5.51081e-06  5.51082e-06
+ -5.51050e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_rcDD (exp): tau =  6.010365061178031  micro-meter
+Sxx_sxpert_rcDD (exp cos phi=0): tau =  11.04236221012404  micro-meter  period =  58.63959923981554
+Sxx_sxpert_rcDD (exp cos): tau =  11.177989211050027  micro-meter  period =  -59.91420354256612 micro-meter  phi =  -0.030628853339716492
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_rcDD (exp): tau =  5.527589134552047  micro-meter
+Syx_sypert_rcDD (exp cos phi=0): tau =  9.462391012062481  micro-meter  period =  -55.412055121162574
+Syx_sypert_rcDD (exp cos): tau =  9.609287646906527  micro-meter  period =  56.86234831177973 micro-meter  phi =  0.036503067625300964
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_rcDD (exp): tau =  14.64029634159752  micro-meter
+Szx_szpert_rcDD (exp cos phi=0): tau =  15.954923007234465  micro-meter  period =  -279.0959406725535
+Szx_szpert_rcDD (exp cos): tau =  15.84417441806624  micro-meter  period =  274.23222047859076 micro-meter  phi =  -0.026524519495466466
+
+--------------------------------------------------
+real-space simulations using ss-DD model with appr. Linv (with sr vsr, sl vsl)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  s vs, with Left ) diffusion length in micro-meter:
+ [ 16.08766 -16.08623  11.9246  -11.91864  11.90814 -11.90294]
+precession frequency: [-1.42326e-09  1.48392e-09 -5.10318e-06  5.10301e-06  5.10236e-06
+ -5.10232e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_cDD (exp): tau =  6.806006081241609  micro-meter
+Sxx_sxpert_cDD (exp cos phi=0): tau =  11.873112682658824  micro-meter  period =  66.89600086707048
+Sxx_sxpert_cDD (exp cos): tau =  11.66811402141344  micro-meter  period =  -64.82112611219304 micro-meter  phi =  0.04526627764701607
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_cDD (exp): tau =  6.015275847732571  micro-meter
+Syx_sypert_cDD (exp cos phi=0): tau =  10.007925729563121  micro-meter  period =  60.937155456863756
+Syx_sypert_cDD (exp cos): tau =  10.103115408045342  micro-meter  period =  61.90660352529754 micro-meter  phi =  0.02224839718012548
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_cDD (exp): tau =  16.023367822953507  micro-meter
+Szx_szpert_cDD (exp cos phi=0): tau =  17.911369387450097  micro-meter  period =  -271.2606730725248
+Szx_szpert_cDD (exp cos): tau =  17.719109769722255  micro-meter  period =  -264.1207992607285 micro-meter  phi =  0.03820434786917198
+
+--------------------------------------------------
+real-space simulations using ss-DD model with appr. Linv (with sr vsr, sl vsr)
+--------------------------------------------------
+Rayleigh-Ritz ( 6  vec.,  sr vsr, sl, vsr ) diffusion length in micro-meter:
+ [ 16.08736 -16.08589  11.91439 -11.9136   11.89791 -11.89789]
+precession frequency: [-1.42271e-09  1.48337e-09 -5.10717e-06  5.10672e-06  5.10635e-06
+ -5.10603e-06]
+
+3  (of  6 ) modes are considered in real-space simulation
+Sxx_sxpert_cDD (exp): tau =  6.4516984866351645  micro-meter
+Sxx_sxpert_cDD (exp cos phi=0): tau =  11.484596164590469  micro-meter  period =  63.571065630715644
+Sxx_sxpert_cDD (exp cos): tau =  11.603169756092504  micro-meter  period =  -64.71243956641331 micro-meter  phi =  -0.02513814150646651
+3  (of  6 ) modes are considered in real-space simulation
+Syx_sypert_cDD (exp): tau =  6.009098598571529  micro-meter
+Syx_sypert_cDD (exp cos phi=0): tau =  9.999952604420375  micro-meter  period =  -60.87101502193445
+Syx_sypert_cDD (exp cos): tau =  10.09668969260251  micro-meter  period =  -61.85581571600812 micro-meter  phi =  -0.02262026429700043
+3  (of  6 ) modes are considered in real-space simulation
+Szx_szpert_cDD (exp): tau =  15.530223526806417  micro-meter
+Szx_szpert_cDD (exp cos phi=0): tau =  16.74981952684808  micro-meter  period =  314.9420921710612
+Szx_szpert_cDD (exp cos): tau =  16.65735574726338  micro-meter  period =  -310.66283508676304 micro-meter  phi =  0.021765437476328465
+Rayleigh-Ritz ( 12  vec.,  sr vsr sl vsl, sevp ) diffusion length in micro-meter:
+ [ 16.08768 -16.08626  11.92447 -11.91852  11.90801 -11.90282   0.47999
+  -0.47999  -0.4798    0.47978   0.47973  -0.47973]
+precession frequency: [-1.42363e-09  1.48432e-09 -5.10316e-06  5.10300e-06  5.10235e-06
+ -5.10231e-06  4.24868e-08 -4.37438e-08 -1.67275e-06 -1.59278e-06
+  1.68057e-06  1.58586e-06]
+
+
+--------------------------------------------------
+higher order RR:
+--------------------------------------------------
+Rayleigh-Ritz ( 9  vec.,  sr vsr Lvsr, with Left ) diffusion length in micro-meter:
+ [-3.19409e+03  3.13408e+03 -3.58987e+01  7.06626e+00  9.24599e-01
+ -9.24290e-01  5.37781e-03 -1.76983e-04 -9.13903e-07]
+precession frequency: [-9.97887e-06  9.97859e-06  2.24615e-03 -2.24575e-03  1.18453e-08
+ -2.14246e-08 -2.77242e+00  2.90914e+00 -1.01944e+00]
+
+Rayleigh-Ritz ( 9  vec.,  sr vsr vvsr, with Left ) diffusion length in micro-meter:
+ [ 1.75316e+01 -1.75259e+01 -1.26826e+01  1.26818e+01  1.26818e+01
+ -1.26806e+01 -8.78448e-02  7.23028e-02  9.08195e-07]
+precession frequency: [-1.12316e-09  1.02145e-09  4.56747e-06 -4.56562e-06  4.56218e-06
+ -4.56101e-06  6.69390e-02 -6.69386e-02  7.68736e+01]
+
+Rayleigh-Ritz ( 12  vec.,  order 1 ) diffusion length in micro-meter:
+ [ 1.72156e-01 -1.72048e-01  1.12691e-01 -1.12656e-01  1.12384e-01
+ -1.12314e-01  2.61583e-05 -2.61533e-05  2.09919e-05 -2.09795e-05
+  1.59164e-05 -1.59144e-05]
+precession frequency: [ 6.53845e-07  1.04979e-06  3.90712e-04 -3.89804e-04 -3.90363e-04
+  3.92862e-04 -3.66489e-03  4.18594e-03  7.45684e-04 -2.11224e-04
+  7.98923e-03 -7.52875e-03]
+
+Rayleigh-Ritz ( 12  vec.,  order 1, with Left ) diffusion length in micro-meter:
+ [ 4.12902e+02 -1.97539e+02 -1.47074e+02  9.08033e+00  7.80632e+00
+ -6.30548e-01 -3.54353e-03 -5.06761e-04  2.55208e-04 -6.38343e-05
+  6.16853e-05 -5.85531e-05]
+precession frequency: [ 9.65474e-06  2.33876e-05 -8.75181e-06 -3.19572e-05  4.39335e-04
+ -1.99542e-04  1.36855e-01  6.55095e+00 -4.01648e-01  1.42783e-01
+ -1.04756e-01 -6.42438e+00]
+
+Rayleigh-Ritz ( 24  vec.,  order 2 ) diffusion length in micro-meter:
+ [-1.93956e+01  1.93744e+01 -1.36373e+01  1.36345e+01 -1.35848e+01
+  1.35669e+01 -1.85250e-02  1.85055e-02 -1.83692e-02  1.83512e-02
+ -1.81416e-02  1.81154e-02  6.81911e-05 -6.81840e-05  6.19405e-05
+ -6.18613e-05  5.30045e-05 -5.28042e-05 -2.82418e-05  2.79612e-05
+ -1.93849e-05  1.92048e-05 -1.33465e-05  1.31945e-05]
+precession frequency: [ 3.31122e-10 -2.04983e-10 -3.95780e-06  3.95338e-06  3.97222e-06
+ -3.96778e-06  8.17377e-06 -7.65526e-06 -7.18102e-06  7.35784e-06
+ -1.37074e-05  1.26995e-05 -1.52298e-02  1.57808e-02  4.98627e-04
+ -2.69462e-05  4.52944e-02 -4.58618e-02  8.59580e-02 -8.59099e-02
+  3.86973e-04 -1.90342e-03 -8.13312e-02  7.91231e-02]
+
+Rayleigh-Ritz ( 24  vec.,  order 2, with Left ) diffusion length in micro-meter:
+ [ 1.78494e+01 -1.77822e+01  1.29665e+01 -1.29174e+01  1.29137e+01
+ -1.28692e+01 -4.86115e+00  2.17741e+00  5.86440e-01  5.30087e-01
+  4.80532e-01  2.10837e-01  3.28498e-02  1.35447e-02  6.57600e-03
+  4.13650e-03  3.84462e-03  1.61199e-03  1.87848e-05  1.80325e-05
+  1.69307e-05 -1.60282e-05 -1.60178e-05 -1.57014e-05]
+precession frequency: [-5.54525e-10  5.45404e-10  4.44976e-06 -4.42654e-06 -4.44799e-06
+  4.43130e-06  1.01628e-03 -1.13630e-03  1.05581e-03 -1.05199e-03
+ -1.00571e-03  1.10898e-03  4.95120e-01 -7.17080e-01 -4.98527e-01
+  5.87549e-01 -5.81423e-01  7.27484e-01  3.16787e-01  2.11905e-02
+ -3.11747e-01 -4.38200e-01 -3.74198e-04  4.30669e-01]
+
+Rayleigh-Ritz ( 12  vec.,  order 1, with Left, sevp ) diffusion length in micro-meter:
+ [ 18.51549 -18.50919 -13.31476  13.31392 -13.16556  13.1644   -0.08081
+   0.07875  -0.07377   0.07347   0.06802  -0.06632]
+precession frequency: [ 1.17708e-08 -1.17652e-08 -4.26883e-06  4.26989e-06  4.24367e-06
+ -4.24185e-06  7.09162e-04 -7.29936e-04  7.23792e-04 -7.13529e-04
+ -7.05669e-04  7.30506e-04]
+
+Rayleigh-Ritz ( 24  vec.,  order 2, with Left, sevp ) diffusion length in micro-meter:
+ [ 1.85104e+01 -1.85069e+01 -1.32688e+01  1.32685e+01  1.32034e+01
+ -1.31986e+01 -1.38956e+00 -5.77216e-01  2.40859e-01  2.04941e-01
+  2.00802e-01 -1.93753e-01  1.93306e-01  1.85480e-01 -1.83134e-01
+ -1.71989e-01 -1.09047e-01  6.66518e-02 -1.45568e-03  1.29256e-03
+ -1.17948e-03  1.13870e-03 -1.06321e-03  8.85511e-04]
+precession frequency: [ 5.40857e-09 -5.30849e-09 -4.26199e-06  4.26333e-06 -4.25082e-06
+  4.25015e-06  1.72511e-03 -1.49603e-03  1.40010e-03 -1.85205e-03
+ -1.18113e-04  1.24651e-04 -1.02761e-04 -9.13341e-05  1.13668e-04
+  1.02893e-04  1.97242e-03 -2.11961e-03 -1.73106e-01  1.51251e-01
+ -1.82189e-01  1.79661e-01 -1.94554e-01  2.21515e-01]
+
+
+--------------------------------------------------
+real-space simulations using ss-DD model and GEVP (RR12)
+--------------------------------------------------
+Rayleigh-Ritz ( 12  vec.,  order 1, with Left ) diffusion length in micro-meter:
+ [ 4.12902e+02 -1.97539e+02 -1.47074e+02  9.08033e+00  7.80632e+00
+ -6.30548e-01 -3.54353e-03 -5.06761e-04  2.55208e-04 -6.38343e-05
+  6.16853e-05 -5.85531e-05]
+precession frequency: [ 9.65474e-06  2.33876e-05 -8.75181e-06 -3.19572e-05  4.39335e-04
+ -1.99542e-04  1.36855e-01  6.55095e+00 -4.01648e-01  1.42783e-01
+ -1.04756e-01 -6.42438e+00]
+
+5  (of  12 ) modes are considered in real-space simulation
+Sxx_sxpert_RR12 (exp): tau =  3.8986943769242863  micro-meter
+Sxx_sxpert_RR12 (exp cos phi=0): tau =  227.85697730468775  micro-meter  period =  34.73814592252136
+Sxx_sxpert_RR12 (exp cos): tau =  229.87081631991649  micro-meter  period =  34.47801261559173 micro-meter  phi =  -0.10807140133117189
+5  (of  12 ) modes are considered in real-space simulation
+Syx_sypert_RR12 (exp): tau =  1.2263301960775892  micro-meter
+Syx_sypert_RR12 (exp cos phi=0): tau =  9.009281205778356  micro-meter  period =  10.64517142638972
+Syx_sypert_RR12 (exp cos): tau =  9.02070415360034  micro-meter  period =  10.502486540849956 micro-meter  phi =  -0.06993590344006463
+5  (of  12 ) modes are considered in real-space simulation
+Szx_szpert_RR12 (exp): tau =  3.340012151118024  micro-meter
+Szx_szpert_RR12 (exp cos phi=0): tau =  218.69428712243595  micro-meter  period =  34.28552855087401
+Szx_szpert_RR12 (exp cos): tau =  218.2361695869922  micro-meter  period =  34.457862288531594 micro-meter  phi =  0.07306002216576069
+
+--------------------------------------------------
+real-space simulations using ss-DD model and GEVP (RR24)
+--------------------------------------------------
+Rayleigh-Ritz ( 24  vec.,  order 2, with Left ) diffusion length in micro-meter:
+ [ 1.78494e+01 -1.77822e+01  1.29665e+01 -1.29174e+01  1.29137e+01
+ -1.28692e+01 -4.86115e+00  2.17741e+00  5.86440e-01  5.30087e-01
+  4.80532e-01  2.10837e-01  3.28498e-02  1.35447e-02  6.57600e-03
+  4.13650e-03  3.84462e-03  1.61199e-03  1.87848e-05  1.80325e-05
+  1.69307e-05 -1.60282e-05 -1.60178e-05 -1.57014e-05]
+precession frequency: [-5.54525e-10  5.45404e-10  4.44976e-06 -4.42654e-06 -4.44799e-06
+  4.43130e-06  1.01628e-03 -1.13630e-03  1.05581e-03 -1.05199e-03
+ -1.00571e-03  1.10898e-03  4.95120e-01 -7.17080e-01 -4.98527e-01
+  5.87549e-01 -5.81423e-01  7.27484e-01  3.16787e-01  2.11905e-02
+ -3.11747e-01 -4.38200e-01 -3.74198e-04  4.30669e-01]
+
+17  (of  24 ) modes are considered in real-space simulation
+Sxx_sxpert_RR24 (exp): tau =  7.687325928588955  micro-meter
+Sxx_sxpert_RR24 (exp cos phi=0): tau =  12.95024479451379  micro-meter  period =  -76.70520931542605
+Sxx_sxpert_RR24 (exp cos): tau =  12.706134452112018  micro-meter  period =  -74.16189596044062 micro-meter  phi =  0.0481048462501544
+17  (of  24 ) modes are considered in real-space simulation
+Syx_sypert_RR24 (exp): tau =  6.9915938442561805  micro-meter
+Syx_sypert_RR24 (exp cos phi=0): tau =  11.24238975992504  micro-meter  period =  -71.8031120355512
+Syx_sypert_RR24 (exp cos): tau =  11.21174639551034  micro-meter  period =  -71.47692855231676 micro-meter  phi =  0.006439659299409166
+17  (of  24 ) modes are considered in real-space simulation
+Szx_szpert_RR24 (exp): tau =  17.68756003575056  micro-meter
+Szx_szpert_RR24 (exp cos phi=0): tau =  19.330453084612245  micro-meter  period =  333.26390393816547
+Szx_szpert_RR24 (exp cos): tau =  19.188283685473202  micro-meter  period =  327.4519496591722 micro-meter  phi =  -0.027438788298486606
+
+--------------------------------------------------
+higher order RR (2nd set):
+--------------------------------------------------
+Rayleigh-Ritz ( 9  vec.,  sr vsr vsl, sl vsr vsl ) diffusion length in micro-meter:
+ [ 1.55527e+01 -1.55511e+01  1.53270e+01 -1.42092e+01  1.16638e+01
+ -1.16625e+01  1.16486e+01 -1.16480e+01  1.24605e-07]
+precession frequency: [-1.48296e-09  1.53230e-09  9.15051e-03 -9.14951e-03 -5.34875e-06
+  5.34820e-06  5.34752e-06 -5.34713e-06 -2.45039e+01]
+
+Rayleigh-Ritz ( 12  vec.,  sr vsr sl vsl ) diffusion length in micro-meter:
+ [ 15.55568 -15.55401  11.66169 -11.66043  11.64651 -11.64588   0.13115
+  -0.1311   -0.13099  -0.13098   0.13096   0.13096]
+precession frequency: [-1.48207e-09  1.53129e-09 -5.34717e-06  5.34662e-06  5.34594e-06
+ -5.34554e-06  1.34659e-07 -1.55255e-07 -2.89326e-06  2.61607e-06
+ -2.47126e-06  2.76810e-06]
+
+Rayleigh-Ritz ( 21  vec.,  sr vsr vsl Lvsr/l vvsr/l, sr vsr vsl Lvsr/l vvsr/l ) diffusion length in micro-meter:
+ [-2.67656e+03  1.37883e+02 -1.70334e+00  1.48606e+00  1.40550e+00
+  6.58642e-01  1.43000e-02  1.06089e-02  8.02575e-03 -6.60173e-03
+  6.38589e-03 -6.18266e-03  4.75550e-03  3.40003e-03 -2.47265e-03
+ -1.67692e-03 -5.19567e-04 -4.67607e-04  2.69428e-06 -2.61213e-06
+  4.11266e-08]
+precession frequency: [ 1.04363e-05 -1.11447e-05 -6.06442e-06 -2.85794e-04 -6.28220e-07
+  2.42560e-04  6.91765e-02  3.03102e-03 -3.76779e-03 -4.90129e-03
+ -7.15551e-02  5.12013e-03  7.76111e-04  1.17172e-04  6.03042e-02
+ -5.79064e-02  7.07701e-02 -7.10822e-02 -6.26941e-01  6.23532e-01
+ -7.26494e+01]
+
+Rayleigh-Ritz ( 21  vec.,  sr vsr vsl Lvsr/l vvsr/l, sl vsr vsl Lvsr/l vvsr/l ) diffusion length in micro-meter:
+ [-2.67656e+03  1.37883e+02 -1.70334e+00  1.48606e+00  1.40550e+00
+  6.58642e-01  1.43000e-02  1.06089e-02  8.02575e-03 -6.60173e-03
+  6.38589e-03 -6.18266e-03  4.75550e-03  3.40003e-03 -2.47265e-03
+ -1.67692e-03 -5.19567e-04 -4.67607e-04  2.69428e-06 -2.61213e-06
+  4.11266e-08]
+precession frequency: [ 1.04363e-05 -1.11447e-05 -6.06442e-06 -2.85794e-04 -6.28220e-07
+  2.42560e-04  6.91765e-02  3.03102e-03 -3.76779e-03 -4.90129e-03
+ -7.15551e-02  5.12013e-03  7.76111e-04  1.17172e-04  6.03042e-02
+ -5.79064e-02  7.07701e-02 -7.10822e-02 -6.26941e-01  6.23532e-01
+ -7.26494e+01]
+
+Rayleigh-Ritz ( 24  vec.,  sr sl vsr vsl Lvsr/l vvsr/l ) diffusion length in micro-meter:
+ [-2.90407e+02  9.44270e+01 -4.22773e+00  3.70300e+00 -2.64784e+00
+  2.44388e+00  6.31456e-03 -5.51591e-03 -4.43783e-03 -4.43512e-03
+  3.75052e-03  3.68041e-03  5.79713e-04 -5.44217e-04  3.32161e-04
+  3.29183e-04 -2.40607e-04 -2.37284e-04  2.17523e-05 -2.17346e-05
+ -2.14553e-05  2.12508e-05 -1.43349e-05  1.39238e-05]
+precession frequency: [ 1.04368e-05 -1.04431e-05 -2.49548e-04  2.17942e-04 -3.98208e-07
+  5.93994e-08 -6.86818e-05 -4.07681e-04 -1.96526e-03  1.95124e-03
+  2.75285e-03 -2.88955e-03  2.36604e-03  4.44705e-03 -3.84967e-02
+  4.53768e-02  5.53934e-02 -5.21770e-02 -7.14461e-01 -8.61188e-01
+  9.44942e-02  1.31174e-01  1.22146e+00  9.28578e-01]
+
+Rayleigh-Ritz ( 24  vec.,  sr sl vsr vsl Lvsr/l vvsr/l, sl sr vsr vsl Lvsr/l vvsr/l ) diffusion length in micro-meter:
+ [-2.76700e+02  8.99388e+01 -4.18397e+00  4.06483e+00 -2.73384e+00
+  2.52167e+00  5.40349e-02  3.85617e-02 -5.06788e-03 -4.89345e-03
+  3.99401e-03  3.88295e-03  1.16651e-03 -6.52919e-04 -5.34132e-04
+ -4.32679e-04 -2.39629e-04 -2.22491e-04  1.71649e-04  1.50283e-04
+ -6.31314e-05 -6.12955e-05  4.48470e-06 -3.97834e-06]
+precession frequency: [ 1.04588e-05 -1.04595e-05 -2.34187e-04  2.05887e-04 -3.80357e-07
+  6.46317e-08  8.59895e-03 -9.55149e-03 -4.65316e-03  4.54023e-03
+  3.87669e-03 -3.76087e-03 -1.05466e-03  1.59017e-03  1.88532e-01
+ -1.82760e-01  7.33661e-02 -7.16224e-02  2.00372e-03 -7.65108e-03
+ -4.15552e+00  4.15212e+00 -9.82874e+00  8.70733e+00]
+
+Rayleigh-Ritz ( 33  vec.,   ) diffusion length in micro-meter:
+ [-1.64693e+02  5.35325e+01  3.61004e+00 -2.98864e+00  2.64104e+00
+ -1.33421e+00  1.30009e-01 -1.27112e-01  7.88625e-02 -7.85842e-02
+  7.84909e-02 -7.81981e-02  3.46802e-02  2.58497e-02 -2.58486e-02
+  9.78914e-03 -9.24112e-03 -8.86485e-03  8.07068e-03  7.80397e-03
+ -4.94326e-03  4.91520e-03  4.77906e-03  4.00667e-03  2.90570e-03
+  1.89901e-03 -4.12777e-04 -2.30422e-04  2.05136e-04 -1.93390e-04
+ -1.80403e-04 -1.39004e-04  2.15123e-09]
+precession frequency: [ 1.09862e-05 -1.09529e-05  2.38646e-04 -6.70192e-07  2.80749e-07
+ -3.04320e-04  1.33167e-06  1.44834e-05 -7.59629e-06  2.86986e-05
+  1.33181e-05 -3.59332e-05  6.13648e-03 -6.82308e-03  1.77268e-01
+ -2.75241e-02 -4.44423e-03  4.12043e-03 -5.80639e-03  5.72721e-03
+  4.19871e-04  4.02496e-02  3.03642e-02  2.99919e-04 -5.61822e-02
+ -1.52392e-01  1.23415e+00 -1.35500e+00 -1.02156e-03  1.35396e+00
+ -4.19326e-03 -1.23801e+00  1.99911e+04]
+
+Rayleigh-Ritz ( 33  vec.,  with Left ) diffusion length in micro-meter:
+ [-1.64693e+02  5.35325e+01  3.61004e+00 -2.98864e+00  2.64104e+00
+ -1.33421e+00  1.30009e-01 -1.27112e-01  7.88625e-02 -7.85842e-02
+  7.84909e-02 -7.81981e-02  3.46802e-02  2.58497e-02 -2.58486e-02
+  9.78914e-03 -9.24112e-03 -8.86485e-03  8.07068e-03  7.80397e-03
+ -4.94326e-03  4.91520e-03  4.77906e-03  4.00667e-03  2.90570e-03
+  1.89901e-03 -4.12777e-04 -2.30422e-04  2.05136e-04 -1.93390e-04
+ -1.80403e-04 -1.39004e-04  2.15123e-09]
+precession frequency: [ 1.09862e-05 -1.09529e-05  2.38646e-04 -6.70192e-07  2.80749e-07
+ -3.04320e-04  1.33167e-06  1.44834e-05 -7.59629e-06  2.86986e-05
+  1.33181e-05 -3.59332e-05  6.13648e-03 -6.82308e-03  1.77268e-01
+ -2.75241e-02 -4.44423e-03  4.12043e-03 -5.80639e-03  5.72721e-03
+  4.19871e-04  4.02496e-02  3.03642e-02  2.99919e-04 -5.61822e-02
+ -1.52392e-01  1.23415e+00 -1.35500e+00 -1.02156e-03  1.35396e+00
+ -4.19326e-03 -1.23801e+00  1.99911e+04]
+
+Rayleigh-Ritz ( 9  vec.,  sr vsr vsl, sl vsr vsl, sevp ) diffusion length in micro-meter:
+ [ 1.85103e+01 -1.85058e+01  1.32441e+01  1.32441e+01 -1.32428e+01
+ -1.32427e+01  9.93846e-01  4.84448e-01  1.94162e-04]
+precession frequency: [ 1.36932e-11  1.76284e-11 -4.25777e-06  4.25819e-06 -4.25719e-06
+  4.25764e-06 -4.72667e-03  4.71247e-03  2.21244e-02]
+
+Rayleigh-Ritz ( 12  vec.,  sr vsr sl vsl, sevp ) diffusion length in micro-meter:
+ [ 18.50921 -18.50478  13.24575  13.24573 -13.24439 -13.24439   0.1781
+  -0.17779   0.17779  -0.17772   0.17208  -0.17189]
+precession frequency: [ 1.42502e-11  1.70999e-11 -4.25920e-06  4.25963e-06 -4.25863e-06
+  4.25908e-06 -3.36970e-07 -1.57930e-06  6.07521e-07  1.35938e-06
+  1.32822e-07 -1.02011e-07]
+
+Rayleigh-Ritz ( 33  vec.,  with Left, sevp ) diffusion length in micro-meter:
+ [ 1.85100e+01 -1.85054e+01  1.32467e+01 -1.32455e+01  1.32372e+01
+ -1.32360e+01  3.48126e-01 -3.45722e-01 -3.45366e-01  3.43098e-01
+  3.35629e-01 -3.35134e-01 -1.22695e-01  1.13512e-01 -5.28124e-02
+  5.23233e-02  5.07437e-02 -5.07382e-02  4.17617e-02 -4.09720e-02
+  3.64973e-02  3.09142e-02  2.36229e-02 -2.32426e-02 -1.65960e-02
+  1.65003e-02 -1.02254e-02  5.85722e-03  1.51603e-03 -1.47171e-03
+  9.49836e-04 -9.05644e-04 -2.04358e-04]
+precession frequency: [ 7.45523e-10 -7.04288e-10  4.25947e-06 -4.25847e-06 -4.25707e-06
+  4.25737e-06 -4.53583e-07  2.17440e-06 -1.05074e-06 -6.64244e-07
+ -1.91224e-07  2.04418e-07 -2.02248e-03  2.01898e-03 -3.47607e-04
+  3.57566e-04 -3.20913e-04  3.26195e-04  1.79089e-05 -1.72109e-05
+ -1.29275e-02  7.75071e-03 -2.84675e-03  2.87758e-03  1.47164e-03
+ -1.50961e-03 -5.83767e-03  1.31603e-02  2.27662e-02 -3.80235e-02
+  4.12717e-02 -4.77500e-02 -7.22777e-01]
+
+
+--------------------------------------------------
+real-space simulations using GEVP (with vkr = vkl = sr vsr sl vsl)
+--------------------------------------------------
+Rayleigh-Ritz ( 12  vec.,  sr vsr sl vsl ) diffusion length in micro-meter:
+ [ 15.55568 -15.55401  11.66169 -11.66043  11.64651 -11.64588   0.13115
+  -0.1311   -0.13099  -0.13098   0.13096   0.13096]
+precession frequency: [-1.48207e-09  1.53129e-09 -5.34717e-06  5.34662e-06  5.34594e-06
+ -5.34554e-06  1.34659e-07 -1.55255e-07 -2.89326e-06  2.61607e-06
+ -2.47126e-06  2.76810e-06]
+
+6  (of  12 ) modes are considered in real-space simulation
+Sxx_sxpert_excDD (exp): tau =  6.527297923008776  micro-meter
+Sxx_sxpert_excDD (exp cos phi=0): tau =  11.56155452307921  micro-meter  period =  63.821661078571914
+Sxx_sxpert_excDD (exp cos): tau =  11.388170726689497  micro-meter  period =  62.08969682650315 micro-meter  phi =  -0.03964031858321737
+6  (of  12 ) modes are considered in real-space simulation
+Syx_sypert_excDD (exp): tau =  5.7014525589707485  micro-meter
+Syx_sypert_excDD (exp cos phi=0): tau =  9.628736298574323  micro-meter  period =  -57.516211859981844
+Syx_sypert_excDD (exp cos): tau =  9.797457410648  micro-meter  period =  59.201755862547245 micro-meter  phi =  0.04061707536042508
+6  (of  12 ) modes are considered in real-space simulation
+Szx_szpert_excDD (exp): tau =  15.477169158153387  micro-meter
+Szx_szpert_excDD (exp cos phi=0): tau =  17.426967972303803  micro-meter  period =  -254.26733849578312
+Szx_szpert_excDD (exp cos): tau =  17.217424350614372  micro-meter  period =  246.66007690909768 micro-meter  phi =  -0.04244346784977748

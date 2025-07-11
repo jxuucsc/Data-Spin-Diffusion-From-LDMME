@@ -1,0 +1,29 @@
+In each subfolders,
+"work_phonon" subfolder contains files for phonon calculations
+"Wannier" subfolder contains files for Wannierization
+"ld-dmd" subfolder contains files for spin lifetimes and diffusions lengths
+
+
+
+#======================================================================
+# Steps of calculations of spin lifetimes and diffusion lengths
+#======================================================================
+1.
+DFT calculation by JDFTx. See script jdftx.sh
+
+2.
+phonon calculation by JDFTx in folder "work_phonon"
+
+3.
+Wannierization calculation by JDFTx in folder Wannier
+
+4.
+Initialization calculation by modified FeynWann code in folder "ld-dmd".
+See for example, folder "ld-dmd\hole_t300\mult16" and scipt jdftx-ld-init.sh.
+A soft link called "Wannier", linking to the folder containing Wannier files, is needed
+
+5.
+Calculations of spin lifetimes and diffusion lengths by python3 scripts in folder "Python-Scripts".
+See for example, folder "ld-dmd/hole_t300/mult16/ldmme".
+In step 4, a folder called "ldbd_data" is created,
+then in this step, A soft link of this "ldbd_data" folder is necessary

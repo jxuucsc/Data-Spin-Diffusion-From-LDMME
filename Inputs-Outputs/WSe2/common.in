@@ -1,0 +1,17 @@
+lattice Hexagonal 6.27389323 26
+coulomb-interaction Slab 001
+coulomb-truncation-embed 0 0 0
+
+ion-species /home/xujq/pseudopotentials/oncv/dojo/nc-fr-04_pbe_standard/W.upf
+ion-species /home/xujq/pseudopotentials/oncv/dojo/nc-fr-04_pbe_standard/Se_fr_nv6.upf
+elec-cutoff 31
+
+ion W   0.000000000000000  -0.000000000000000   0.000000000000000 0
+ion Se   0.666666666666667   0.333333333333333   0.121870594399722 1
+ion Se   0.666666666666667   0.333333333333333  -0.121870594399722 1
+
+elec-n-bands 50
+converge-empty-states yes
+spintype spin-orbit
+
+#van-der-waals

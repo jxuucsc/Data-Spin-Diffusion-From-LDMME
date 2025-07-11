@@ -1,0 +1,25 @@
+Please find python3 scripts in folder "Python-Scripts"
+
+See lifetime and diffusion length results in file "solve_tl_fromldmme_ldbdfiles_grbn.out".
+For approximate spin lifetimes based on Rayleigh-Ritz method, results below "with Left" are used.
+For approximate spin diffusion lengths based on Rayleigh-Ritz method, 
+chech file approximate_diffusion_lengths_grbn_RR.out, and again results below "with Left" are used.
+
+See analysis in folder "analysis_ldmme", which contains:
+spin/valley relevance analysis; spin observable evolution curves S(x,t); ......
+
+
+
+#======================================================================
+# Note about results of lifetime and diffusion lengths
+#======================================================================
+Final results of lifetime and diffusion lengths are obtained from
+exponential-cosine fits of spin observable evolution curves S(x,t).
+
+For example, for spin diffusion length,
+in file "solve_tl_fromldmme_ldbdfiles_grbn.out",
+search "Sxx_sxpert (exp cos)", you can find "tau =  XXXXXXXX micro-meter",
+here "XXXXXXXX" means that spin diffusion length along x of Sx in unit micro-meter.
+
+Similarly, search "Syx_sypert (exp cos)" and "Szx_szpert (exp cos)" in file "solve_tl_fromldmme_ldbdfiles_grbn.out",
+you can find spin diffusion length along x of Sy and Sz.

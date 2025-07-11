@@ -1,0 +1,11 @@
+include common.in
+
+kpoint-folding 24 24 24    #Use a Brillouin zone mesh
+
+initial-state totalE.$VAR
+
+electronic-SCF energyDiffThreshold 1e-6 nIterations 300
+
+dump-name totalE.$VAR
+dump Init Symmetries
+dump End State EigStats

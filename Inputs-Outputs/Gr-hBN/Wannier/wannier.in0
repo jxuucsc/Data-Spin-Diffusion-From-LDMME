@@ -1,0 +1,57 @@
+include totalE.in
+
+wannier \
+	loadRotations yes \
+	innerWindow  -1 0.352 \
+	outerWindow  -1 1.05 \
+	saveZ ../ez0.5/totalE.$VAR 0.00097234467907 \
+	saveMomenta yes \
+	saveSpin yes \
+	phononSupercell 6 6 1 \
+	#polar yes \
+	#saveBerryA yes \
+	#saveRP yes \
+
+#defect-supercell pbv221 2 2 1 ../defect_Pb_vacancy_2x2x1/jdftx/totalE.in 0.750000000 0.500000000 0.000000000 0. 5. 2.  #Neutral defect
+
+wannier-initial-state totalE.$VAR
+wannier-dump-name wannier.$VAR
+
+wannier-minimize nIterations 10000 energyDiffThreshold 1e-10
+
+wannier-center C 1 s(+1/2)
+wannier-center C 1 s(-1/2)
+wannier-center C 1 p+(-3/2)
+wannier-center C 1 p+(-1/2)
+wannier-center C 1 p+(+1/2)
+wannier-center C 1 p+(+3/2)
+wannier-center C 1 p-(+1/2)
+wannier-center C 1 p-(-1/2)
+
+wannier-center C 2 s(+1/2)
+wannier-center C 2 s(-1/2)
+wannier-center C 2 p+(-3/2)
+wannier-center C 2 p+(-1/2)
+wannier-center C 2 p+(+1/2)
+wannier-center C 2 p+(+3/2)
+wannier-center C 2 p-(+1/2)
+wannier-center C 2 p-(-1/2)
+
+wannier-center B 1 s(+1/2)
+wannier-center B 1 s(-1/2)
+wannier-center B 1 p+(-3/2)
+wannier-center B 1 p+(-1/2)
+wannier-center B 1 p+(+1/2)
+wannier-center B 1 p+(+3/2)
+wannier-center B 1 p-(+1/2)
+wannier-center B 1 p-(-1/2)
+
+wannier-center N 1 s(+1/2)
+wannier-center N 1 s(-1/2)
+wannier-center N 1 p+(-3/2)
+wannier-center N 1 p+(-1/2)
+wannier-center N 1 p+(+1/2)
+wannier-center N 1 p+(+3/2)
+wannier-center N 1 p-(+1/2)
+wannier-center N 1 p-(-1/2)
+

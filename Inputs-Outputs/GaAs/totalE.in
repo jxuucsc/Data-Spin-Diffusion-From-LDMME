@@ -1,0 +1,12 @@
+include common.in
+
+kpoint-folding 24 24 24    #Use a Brillouin zone mesh
+
+initial-state totalE.$VAR
+
+electronic-minimize energyDiffThreshold 1e-11 nIterations 300
+
+dump-name totalE.$VAR
+dump Init Symmetries Kpoints Gvectors
+#note that you should not dump State
+dump End State EigStats BandEigs Vscloc

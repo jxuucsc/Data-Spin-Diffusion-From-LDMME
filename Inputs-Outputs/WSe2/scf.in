@@ -1,0 +1,14 @@
+include common.in
+
+kpoint-folding 12 12 1
+
+initial-state totalE.$VAR
+
+electronic-SCF energyDiffThreshold 1e-6 nIterations 300
+
+dump-name totalE.$VAR
+dump Init Symmetries Kpoints Gvectors
+#note that you should not dump State
+dump End State EigStats
+
+#symmetries none

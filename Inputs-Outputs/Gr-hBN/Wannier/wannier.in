@@ -1,0 +1,79 @@
+include totalE.in
+
+wannier \
+	loadRotations yes \
+	innerWindow  -1 0.352 \
+	outerWindow  -1 1.05 \
+	saveZ ../ez0.5/totalE.$VAR 0.00097234467907 \
+	saveMomenta yes \
+	saveSpin yes \
+	phononSupercell 6 6 1 \
+	#polar yes \
+	#saveBerryA yes \
+	#saveRP yes \
+
+#defect-supercell pbv221 2 2 1 ../defect_Pb_vacancy_2x2x1/jdftx/totalE.in 0.750000000 0.500000000 0.000000000 0. 5. 2.  #Neutral defect
+
+wannier-initial-state totalE.$VAR
+wannier-dump-name wannier.$VAR
+
+wannier-minimize nIterations 10000 energyDiffThreshold 1e-10
+
+wannier-center C 1 s(+1/2)
+wannier-center C 1 s(-1/2)
+wannier-center C 1 p+(-3/2)
+wannier-center C 1 p+(-1/2)
+wannier-center C 1 p+(+1/2)
+wannier-center C 1 p+(+3/2)
+wannier-center C 1 p-(+1/2)
+wannier-center C 1 p-(-1/2)
+
+wannier-center C 2 s(+1/2)
+wannier-center C 2 s(-1/2)
+wannier-center C 2 p+(-3/2)
+wannier-center C 2 p+(-1/2)
+wannier-center C 2 p+(+1/2)
+wannier-center C 2 p+(+3/2)
+wannier-center C 2 p-(+1/2)
+wannier-center C 2 p-(-1/2)
+
+wannier-center B 1 s(+1/2)
+wannier-center B 1 s(-1/2)
+wannier-center B 1 p+(-3/2)
+wannier-center B 1 p+(-1/2)
+wannier-center B 1 p+(+1/2)
+wannier-center B 1 p+(+3/2)
+wannier-center B 1 p-(+1/2)
+wannier-center B 1 p-(-1/2)
+
+wannier-center N 1 s(+1/2)
+wannier-center N 1 s(-1/2)
+wannier-center N 1 p+(-3/2)
+wannier-center N 1 p+(-1/2)
+wannier-center N 1 p+(+1/2)
+wannier-center N 1 p+(+3/2)
+wannier-center N 1 p-(+1/2)
+wannier-center N 1 p-(-1/2)
+
+wannier-center Gaussian   0.434914  -0.391390  -0.120868 2 sUp 
+wannier-center Gaussian   0.434914  -0.391390  -0.120868 2 sDn 
+wannier-center Gaussian   0.286173   0.131072   0.299996 2 sUp 
+wannier-center Gaussian   0.286173   0.131072   0.299996 2 sDn 
+wannier-center Gaussian  -0.344069  -0.253987  -0.124464 2 sUp 
+wannier-center Gaussian  -0.344069  -0.253987  -0.124464 2 sDn 
+wannier-center Gaussian  -0.445913  -0.165500  -0.074348 2 sUp 
+wannier-center Gaussian  -0.445913  -0.165500  -0.074348 2 sDn 
+wannier-center Gaussian  -0.129602  -0.279476  -0.112838 2 sUp 
+wannier-center Gaussian  -0.129602  -0.279476  -0.112838 2 sDn 
+wannier-center Gaussian  -0.492215   0.023209  -0.425323 2 sUp 
+wannier-center Gaussian  -0.492215   0.023209  -0.425323 2 sDn 
+wannier-center Gaussian  -0.162855   0.207802   0.388471 2 sUp 
+wannier-center Gaussian  -0.162855   0.207802   0.388471 2 sDn 
+wannier-center Gaussian   0.074987   0.073309   0.005108 2 sUp 
+wannier-center Gaussian   0.074987   0.073309   0.005108 2 sDn 
+wannier-center Gaussian   0.376903   0.479440  -0.055843 2 sUp 
+wannier-center Gaussian   0.376903   0.479440  -0.055843 2 sDn 
+wannier-center Gaussian  -0.045449   0.204161  -0.420140 2 sUp 
+wannier-center Gaussian  -0.045449   0.204161  -0.420140 2 sDn 
+wannier-center Gaussian   0.217384   0.009119  -0.427173 2 sUp 
+wannier-center Gaussian   0.217384   0.009119  -0.427173 2 sDn 

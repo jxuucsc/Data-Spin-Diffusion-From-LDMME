@@ -1,0 +1,7 @@
+Please find python3 scripts in folder "Python-Scripts"
+
+See lifetime and diffusion length results in file "solve_tl_fromldmme_ldbdfiles_wse2.out".
+For calculations based on Rayleigh-Ritz method, results below "with Left" are used.
+
+See analysis in folder "analysis_ldmme".
+"analysis_ldmme/UR1.dat" file contains information related to right eigenvectors

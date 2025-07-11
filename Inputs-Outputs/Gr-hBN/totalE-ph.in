@@ -1,0 +1,18 @@
+include common.in
+initial-state totalE.$VAR
+
+kpoint-folding 24 24 1
+
+#lattice-minimize energyDiffThreshold 1e-8 nIterations 50 knormThreshold 1e-8
+#ionic-minimize energyDiffThreshold 1e-8 nIterations 50 knormThreshold 1e-8
+#ionic-minimize energyDiffThreshold 1e-7 nIterations 30 knormThreshold 1e-7
+#lattice-minimize energyDiffThreshold 1e-6 nIterations 30 knormThreshold 1e-6
+#ionic-minimize energyDiffThreshold 1e-6 nIterations 30 knormThreshold 1e-6
+
+electronic-minimize nIterations 300 energyDiffThreshold 1e-9
+#electronic-SCF  energyDiffThreshold 1e-10
+
+dump-name totalE.$VAR
+#dump Ionic Lattice IonicPositions EigStats
+#dump Init Symmetries
+#dump End State Vscloc BandEigs EigStats

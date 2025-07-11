@@ -1,0 +1,197 @@
+Rayleigh-Ritz ( 6  vec.,  s Ls ) lifetime in ps:
+ [1.32106e+03 1.31962e+03 6.70415e+02 6.55847e-01 5.81993e-01 5.81352e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sx Lsx, with Left ) lifetime in ps:
+ [2.83229e+03 1.76724e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sz Lsz, with Left ) lifetime in ps:
+ [1.48153e+03 2.04057e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sx Lsx, with Left ) lifetime in ps:
+ [2.83229e+03 1.76724e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sy Lsy, with Left ) lifetime in ps:
+ [2.83032e+03 1.76851e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sz Lsz, with Left ) lifetime in ps:
+ [1.48153e+03 2.04057e-01]
+
+Rayleigh-Ritz ( 2  vec.,  DPx vsx, with Left ) lifetime in ps:
+ [2832.28826    5.73526]
+
+Rayleigh-Ritz ( 2  vec.,  DPx vsy, with Left ) lifetime in ps:
+ [2338.31061    5.73787]
+
+Rayleigh-Ritz ( 2  vec.,  DPx vsz, with Left ) lifetime in ps:
+ [2832.28825    5.73529]
+
+Rayleigh-Ritz ( 6  vec.,  DP vs, with Left ) lifetime in ps:
+ [2338.69935 2336.60919 1481.53202    5.73787    5.73787    5.73529]
+
+
+examine sx-vsx coupling considering sx, Lsx and vsy
+BK = 
+ [[ 1.00000e+00+1.04039e-19j  6.22582e-11-5.52854e-24j
+  -5.31852e-18-4.35341e-17j]
+ [ 6.22582e-11+4.90848e-23j -1.16043e-12+8.29115e-27j
+  -9.13993e-08-6.32073e-22j]
+ [-3.57024e-18+1.16010e-17j  9.13993e-08+6.58138e-22j
+   1.00000e+00-9.77378e-20j]]
+BKinv = 
+ [[ 1.00000e+00-1.06690e-19j  5.40401e+01-9.50572e-13j
+   4.93923e-06+4.34814e-17j]
+ [ 5.40401e+01+4.39203e-11j -8.67999e+11-6.33558e-03j
+  -7.93345e+04-1.12771e-09j]
+ [-4.93923e-06-1.56508e-17j  7.93345e+04+1.15034e-09j
+   1.00725e+00+1.55384e-16j]]
+AK = 
+ [[ 6.22582e-11+6.11855e-23j -1.16043e-12+8.39289e-27j
+  -9.13993e-08-6.73325e-22j]
+ [-1.16043e-12+8.24878e-27j -1.58842e-16-4.80098e-27j
+  -5.87420e-13+1.24794e-25j]
+ [ 9.13993e-08+6.74317e-22j  5.85501e-13-1.17363e-25j
+   4.21757e-06-4.18760e-24j]]
+CK = 
+ [[ 3.44118e-22+6.67118e-23j -1.16901e-12-2.50876e-25j
+  -9.14102e-08-4.82627e-22j]
+ [ 1.00000e+00+3.54943e-17j  1.37828e-04+4.16826e-15j
+   1.75276e-01-1.09360e-13j]
+ [-1.58819e-22+1.29343e-23j -1.20119e-11-3.81184e-22j
+   4.20155e-06+9.87732e-21j]]
+spin lifetime in ps:  [1.75531e-01 2.33810e+03 5.73823e+00]
+CKappr = 
+ [[ 6.22582e-11+6.11855e-23j -1.16043e-12+8.39301e-27j
+  -9.13993e-08-6.73315e-22j]
+ [ 1.00725e+00+1.92057e-16j  1.37874e-04+4.16825e-15j
+   5.09880e-01-1.04600e-13j]
+ [ 9.20621e-08+6.93409e-22j  5.89747e-13-1.18123e-25j
+   4.24815e-06+6.51123e-22j]]
+spin lifetime in ps:  [1.75449e-01 2.33818e+03 5.69940e+00]
+E2 =  (-1.1606321710891675e-12-3.0660804714644795e-31j)
+mE_sv =  (-9.13993413777343e-08+1.7633325772871134e-23j)
+E2_sv =  (1.8356573318081883e-19+1.4199703369965833e-25j)
+mE_vs =  (9.139934137774638e-08+1.2936612026253516e-23j)
+E2_vs =  (1.8356573319186289e-19-1.4196631742816129e-25j)
+Gamma_v =  (4.2175695053647975e-06+1.245940797657998e-23j) 
+
+
+--------------------------------------------------
+test right eigenvector spert - tau [-iE, spert] and left eigenvector s - tau [-iE, s]:
+--------------------------------------------------
+Rayleigh-Ritz ( 1  vec.,  DPx, with Left ) lifetime in ps:
+ [782.13715]
+
+Rayleigh-Ritz ( 2  vec.,  DPx, vsy, with Left ) lifetime in ps:
+ [744.56691   5.73815]
+
+Rayleigh-Ritz ( 2  vec.,  DPx, vDPx, with Left ) lifetime in ps:
+ [782.13715   5.68695]
+
+Rayleigh-Ritz ( 2  vec.,  sx, tau*[iE,sx], with Left ) lifetime in ps:
+ [781.90701   0.86686]
+
+Rayleigh-Ritz ( 2  vec.,  sx, Lsx, with Left ) lifetime in ps:
+ [-0.24116  0.13541]
+
+Rayleigh-Ritz ( 3  vec.,  sx, tau*[iE,sx], Lsx, with Left ) lifetime in ps:
+ [3.81243e+05 4.51245e-01 4.51245e-01]
+
+Rayleigh-Ritz ( 3  vec.,  sx, tau*[iE,sx], L*tau*[iE,sx], with Left ) lifetime in ps:
+ [3.67845e+05 2.81505e-01 2.81505e-01]
+
+Rayleigh-Ritz ( 3  vec.,  sx, tau*iE,sx], vsy, with Left ) lifetime in ps:
+ [744.48936   5.73863   0.85908]
+
+Rayleigh-Ritz ( 3  vec.,  sx, Lsx, vsy, with Left ) lifetime in ps:
+ [ 5.73516 -0.24116  0.13541]
+
+Rayleigh-Ritz ( 4  vec.,  sx, tau*[iE,sx], Lsx, L*tau*[iE,sx], with Left ) lifetime in ps:
+ [1.35838e+03 1.30718e+00 3.53891e-01 3.53891e-01]
+
+Rayleigh-Ritz ( 5  vec.,  sx, tau*[iE,sx], Lsx, L*tau*[iE,sx], vsy, with Left ) lifetime in ps:
+ [1.22617e+03 5.74827e+00 1.29488e+00 3.54917e-01 3.54917e-01]
+
+Rayleigh-Ritz ( 1  vec.,  DPz, with Left ) lifetime in ps:
+ [430.50437]
+
+Rayleigh-Ritz ( 2  vec.,  DPz vsz, with Left ) lifetime in ps:
+ [430.50437   5.73529]
+
+Rayleigh-Ritz ( 2  vec.,  DPz vDPz, with Left ) lifetime in ps:
+ [430.50437   5.64765]
+
+Rayleigh-Ritz ( 2  vec.,  sz, tau*[iE,sz], with Left ) lifetime in ps:
+ [429.68389   0.94094]
+
+Rayleigh-Ritz ( 2  vec.,  sz, Lsz, with Left ) lifetime in ps:
+ [-0.17837  0.12008]
+
+Rayleigh-Ritz ( 3  vec.,  sz, tau*[iE,sz], Lsz, with Left ) lifetime in ps:
+ [6.16038e+05 5.15258e-01 5.15258e-01]
+
+Rayleigh-Ritz ( 3  vec.,  sz, tau*[iE,sz], L*tau*[iE,sz], with Left ) lifetime in ps:
+ [5.4378e+05 3.0035e-01 3.0035e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sz, tau*[iE,sz], Lsz, L*tau*[iE,sz], with Left ) lifetime in ps:
+ [7.02484e+02 1.30527e+00 3.79292e-01 3.79292e-01]
+
+Rayleigh-Ritz ( 5  vec.,  sz, tau*[iE,sz], Lsz, L*tau*[iE,sz], vsz, with Left ) lifetime in ps:
+ [7.02484e+02 5.73529e+00 1.30527e+00 3.79292e-01 3.79292e-01]
+
+
+--------------------------------------------------
+test energy dependent factors:
+--------------------------------------------------
+Rayleigh-Ritz ( 2  vec.,  sx L?, with Left ) lifetime in ps:
+ [2.83229e+03 1.76724e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sx tau(E)*sx L?, with Left ) lifetime in ps:
+ [1.35838e+03 1.30718e+00 3.53891e-01 3.53891e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sx dfde*sx L?, with Left ) lifetime in ps:
+ [1.64296e+03 1.28688e+00 3.30020e-01 3.30020e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sx sqrt(dfde)*sx L?, with Left ) lifetime in ps:
+ [1.52985e+03 1.29626e+00 3.39774e-01 3.39774e-01]
+
+Rayleigh-Ritz ( 8  vec.,  sx tau(E)*sx dfde*sx sqrt(dfde)*sx L?, with Left ) lifetime in ps:
+ [1.65246e+03 1.28261e+00 6.13702e-01 6.13702e-01 4.36493e-01 4.36493e-01
+ 3.42892e-01 3.42892e-01]
+
+Rayleigh-Ritz ( 2  vec.,  sz L?, with Left ) lifetime in ps:
+ [1.48153e+03 2.04057e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sz tau(E)*sz L?, with Left ) lifetime in ps:
+ [7.02484e+02 1.30527e+00 3.79292e-01 3.79292e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sz dfde*sz L?, with Left ) lifetime in ps:
+ [8.45497e+02 1.27583e+00 3.49888e-01 3.49888e-01]
+
+Rayleigh-Ritz ( 4  vec.,  sz sqrt(dfde)*sz L?, with Left ) lifetime in ps:
+ [7.89410e+02 1.28596e+00 3.61337e-01 3.61337e-01]
+
+Rayleigh-Ritz ( 8  vec.,  sz tau(E)*sz dfde*sz sqrt(dfde)*sz L?, with Left ) lifetime in ps:
+ [8.49223e+02 1.27213e+00 6.98434e-01 6.98434e-01 4.54290e-01 4.54290e-01
+ 3.68154e-01 3.68154e-01]
+
+Rayleigh-Ritz ( 6  vec.,  s L?, with Left ) lifetime in ps:
+ [2.83285e+03 2.82976e+03 1.48153e+03 2.04057e-01 1.76886e-01 1.76689e-01]
+
+Rayleigh-Ritz ( 12  vec.,  s tau(E)*s L?, with Left ) lifetime in ps:
+ [1.36303e+03 1.35816e+03 7.02483e+02 1.30739e+00 1.30528e+00 1.30271e+00
+ 3.79290e-01 3.79290e-01 3.53920e-01 3.53920e-01 3.53836e-01 3.53836e-01]
+
+Rayleigh-Ritz ( 12  vec.,  s dfde*s L?, with Left ) lifetime in ps:
+ [1.64335e+03 1.64280e+03 8.45497e+02 1.28695e+00 1.28639e+00 1.27582e+00
+ 3.49888e-01 3.49888e-01 3.30257e-01 3.30257e-01 3.30016e-01 3.30016e-01]
+
+Rayleigh-Ritz ( 12  vec.,  s sqrt(dfde)*s L?, with Left ) lifetime in ps:
+ [1.53119e+03 1.52984e+03 7.89410e+02 1.29627e+00 1.29503e+00 1.28594e+00
+ 3.61336e-01 3.61336e-01 3.40006e-01 3.40006e-01 3.39711e-01 3.39711e-01]
+
+Rayleigh-Ritz ( 24  vec.,  s tau(E)*s dfde*s sqrt(dfde)*s L?, with Left ) lifetime in ps:
+ [1.65279e+03 1.65209e+03 8.49222e+02 1.28320e+00 1.28233e+00 1.27212e+00
+ 6.98412e-01 6.98412e-01 6.13998e-01 6.13998e-01 6.09703e-01 6.09703e-01
+ 4.54276e-01 4.54276e-01 4.40787e-01 4.40787e-01 4.36155e-01 4.36155e-01
+ 3.68147e-01 3.68147e-01 3.43043e-01 3.43043e-01 3.43012e-01 3.43012e-01]
+
